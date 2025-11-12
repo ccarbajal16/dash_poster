@@ -112,9 +112,6 @@ El dashboard cuenta con 5 páginas principales accesibles desde el menú lateral
    - Filtros múltiples por Eje, País, Institución
    - Filtros por estado de Presentación (Presentó: SI/NO)
    - Filtros por tipo de Ponencia (Ponencia Oral: SI/NO)
-   - **Nuevos filtros de evaluación**:
-     - Rango de Puntaje (0.43 - 0.97)
-     - Rango de Ranking/Resultado (1 - 22)
    - Búsqueda de texto libre
    - Exportación de datos filtrados
 
